@@ -13,11 +13,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/karimelbahi/github-readme-stats)
 
 
+ <div>
+  <a href="https://github.com/karimelbahi">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=karimelbahi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
   <img align="center" alt="Mark-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Mark-java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
+
+
 
  #### Conect with me 👇
  

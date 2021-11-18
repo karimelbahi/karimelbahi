@@ -9,17 +9,15 @@
 
 # Stats 
 
-<div>
+<!-- <div>
   <a href="https://github.com/karimelbahi">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=karimelbahi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
   
 ![karimelbahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelbahi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
- # Stats 
-[![karimelbahi's github stats](https://github-readme-stats.vercel.app/api?username=karimelbahi)](https://github.com/karimelbahi/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi)](https://github.com/karimelbahi/github-profile-trophy)
 

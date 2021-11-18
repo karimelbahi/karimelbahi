@@ -20,8 +20,9 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi)](https://github.com/karimelbahi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=radical)](https://github.com/karimelbahi/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=radical
+<!-- https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=radical -->
 
 
 <div style="display: inline_block"><br>

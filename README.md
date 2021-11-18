@@ -14,7 +14,9 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=karimelbahi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?karimelbahi=anuraghazra&show_icons=true&theme=radical)
+  
  # Stats 
 [![karimelbahi's github stats](https://github-readme-stats.vercel.app/api?username=karimelbahi)](https://github.com/anuraghazra/github-readme-stats)
 

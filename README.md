@@ -15,6 +15,8 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+ # Stats 
+[![karimelbahi's github stats](https://github-readme-stats.vercel.app/api?username=karimelbahi)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">

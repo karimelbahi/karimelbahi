@@ -18,6 +18,8 @@
  # Stats 
 [![karimelbahi's github stats](https://github-readme-stats.vercel.app/api?username=karimelbahi)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi)](https://github.com/karimelbahi/github-profile-trophy)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
   <img align="center" alt="Mark-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">

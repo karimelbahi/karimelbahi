@@ -19,7 +19,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=radical)](https://github.com/karimelbahi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=onedark)](https://github.com/karimelbahi/github-profile-trophy)
 
 <!-- https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=onedark -->
 

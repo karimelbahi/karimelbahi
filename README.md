@@ -21,7 +21,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=radical)](https://github.com/karimelbahi/github-profile-trophy)
 
-<!-- https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=radical -->
+<!-- https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=onedark -->
 
 
 <div style="display: inline_block"><br>

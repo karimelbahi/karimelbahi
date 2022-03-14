@@ -25,20 +25,6 @@
 
 
 
-<!-- <div align="center">
-
-<img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=250 width=300>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-</div>
- -->
-<!-- <div align="center">
-<a href="https://github.com/karimelbahi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&theme=dracula&hide_langs_below=1" />
-</a>
-<a href="https://github.com/mohamedtamer0">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=karimelbahi&show_icons=true&theme=dracula&line_height=27" alt="Karim elbahi github stats"/>
-</a>
-</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">

@@ -24,6 +24,17 @@
 <!-- https://github-profile-trophy.vercel.app/?username=karimelbahi&theme=onedark -->
 
 
+</div>
+ -->
+<!-- <div align="center">
+<a href="https://github.com/karimelbahi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimelbahi&theme=dracula&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mohamedtamer0">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=karimelbahi&show_icons=true&theme=dracula&line_height=27" alt="Karim elbahi github stats"/>
+</a>
+</div> -->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
   <img align="center" alt="Mark-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">

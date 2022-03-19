@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=karimelbahi)
 
 
-- 🔭 I’m currently working  as Android dev at [FlexxPay](https://www.linkedin.com/company/flexxpay-fz-llc/)
+- 🔭 I’m currently working  as Android dev at [FlexxPay](https://www.flexxpay.com/en)
 - 💬 Ask me about (Android, Kotlin, Java)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/k-elbahi/#)
 
